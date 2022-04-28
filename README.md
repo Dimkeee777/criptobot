@@ -1,4 +1,4 @@
-# criptobot
+# Eccoboybot
 
 Телеграм-бот для конвертации валют. Имя в телеграме @Eccoboybot
 
